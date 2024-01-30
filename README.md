@@ -198,7 +198,7 @@
   </a>
 
 <div style="display: flex">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ngductuan&show_icons=true&locale=en&layout=compact" alt="ngductuan" style="height: 120px; margin-right: 20px;"/>
+<!-- <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ngductuan&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/> -->
   <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=ngductuan&" alt="ngductuan" style="height: 170px"/>
 </div>
