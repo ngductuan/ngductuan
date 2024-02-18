@@ -1,21 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tuan Nguyen</h1>
 <h3 align="center">Third-year student studying Software Engineering at University of Science, specialized in mobile development.</h3>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=ngductuan&label=Profile%20views&color=0e75b6&style=flat"
-    alt="ngductuan"
-  />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=ngductuan"
-      alt="ngductuan"
-  /></a>
-</p>
-
 - 🌱 I’m currently learning **Flutter, Android Kotlin for App development.**
 
 - 📫 How to reach me **ngductuan203@gmail.com**
