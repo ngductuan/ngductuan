@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuan Nguyen</h1>
-<h3 align="center">Third-year student studying Software Engineering at University of Science, specialized in mobile development.</h3>
+<h3 align="center">DevOps Engineer with experience in building and maintaining CI/CD pipelines, containerized applications, and cloud-based infrastructure.</h3>
 
-- 🌱 I’m currently learning **Flutter, Android Kotlin for App development.**
+- 🌱 I’m currently learning **Kubernetes, Terraform, CI/CD pipelines, and cloud infrastructure.**
 
 - 📫 How to reach me **ngductuan203@gmail.com**
 
